@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 452,
+    "articles": [
+    {
+    "source": {
+    "id": "reuters",
+    "name": "Reuters"
+    },
+    "author": null,
+    "title": "Taiwan Dec export orders seen rising for 22nd month in a row - Reuters",
+    "description": "Taiwan's export orders likely rose in December for the 22nd straight month albeit at a slower pace, a Reuters poll showed on Thursday, due to supply chain issues and off last year's high base.",
+    "url": "https://www.reuters.com/markets/asia/taiwan-dec-export-orders-seen-rising-22nd-month-row-2022-01-19/",
+    "urlToImage": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=67",
+    "publishedAt": "2022-01-19T03:24:00Z",
+    "content": "TAIPEI, Jan 19 (Reuters) - Taiwan's export orders likely rose in December for the 22nd straight month albeit at a slower pace, a Reuters poll showed on Thursday, due to supply chain issues and off la… [+1098 chars]"
+    },
+    {
+    "source": {
+    "id": "reuters",
+    "name": "Reuters"
+    },
+    "author": "Reuters Staff",
+    "title": "Taiwan Dec export orders seen rising for 22nd month in a row - Reuters poll - Reuters.com",
+    "description": "Taiwan's export orders likely rose in December for the 22nd straight month albeit at a slower pace, a Reuters poll showed on Thursday, due to supply chain issues and off last year's high base.",
+    "url": "https://www.reuters.com/article/taiwan-economy-orders-poll-idUSKBN2JT07Z",
+    "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20220119&t=2&i=1588258502&r=LYNXMPEI0I03C&w=800",
+    "publishedAt": "2022-01-19T04:23:00Z",
+    "content": "By Reuters Staff\r\nTAIPEI (Reuters) - Taiwans export orders likely rose in December for the 22nd straight month albeit at a slower pace, a Reuters poll showed on Thursday, due to supply chain issues a… [+840 chars]"
+    },
+    {
+    "source": {
+    "id": "reuters",
+    "name": "Reuters"
+    },
+    "author": null,
+    "title": "Analysis: Sony faces deep-pocketed rivals in war over future of gaming - Reuters",
+    "description": "Sony Group <a href=\"https://www.reuters.com/companies/6758.T\" target=\"_blank\">(6758.T)</a>, perched atop the gaming sector, is facing a fresh challenge from cash-rich rivals betting on a next-generation online video game boom as the Japanese conglomerate eyes…",
+    "url": "https://www.reuters.com/technology/sony-faces-deep-pocketed-rivals-war-over-future-gaming-2022-01-19/",
+    "urlToImage": "https://www.reuters.com/resizer/Yft6X32-6e1CsugRO-JYh6IZCTs=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/AXIPOUR7DZJVJKX7GEMKIP2XM4.jpg",
+    "publishedAt": "2022-01-19T08:18:00Z",
+    "content": "TOKYO, Jan 19 (Reuters) - Sony Group (6758.T), perched atop the gaming sector, is facing a fresh challenge from cash-rich rivals betting on a next-generation online video game boom as the Japanese co… [+3770 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "MacRumors"
+    },
+    "author": "Joe Rossignol",
+    "title": "Apple Prepares Fix for Safari Bug Allowing Websites to Decipher Your Recent Browsing Activity",
+    "description": "Over the weekend, we reported on a bug in WebKit's implementation of a JavaScript API called IndexedDB that can reveal your recent browsing history and even your identity, according to browser fingerprinting service FingerprintJS.\n\n\n\n\n\nApple has since prepare…",
+    "url": "https://www.macrumors.com/2022/01/18/apple-prepares-fix-for-safari-indexeddb-bug/",
+    "urlToImage": "https://images.macrumors.com/t/5LfZ17zq4tJNGppyuMtZveEXv54=/1600x/article-new/2022/01/safari-icon-blue-banner.jpeg",
+    "publishedAt": "2022-01-19T02:28:29Z",
+    "content": "Over the weekend, we reported on a bug in WebKit's implementation of a JavaScript API called IndexedDB that can reveal your recent browsing history and even your identity, according to browser finger… [+1325 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Gigazine.net"
+    },
+    "author": "@GIGAZINE",
+    "title": "iPhone 13シリーズで通話のノイズキャンセリング機能がひっそりと削除されていたことが判明",
+    "description": "2021年9月に発表されたiPhone 13シリーズに、iPhone 12以前のモデルに搭載されていた通話時に周囲の騒音を軽減する「電話ノイズキャンセリング」がなぜか搭載されていないことが物議を醸しています。続きを読む...",
+    "url": "https://gigazine.net/news/20220119-iphone-13-not-support-noise-cancellation/",
+    "urlToImage": "https://i.gzn.jp/img/2022/01/19/iphone-13-not-support-noise-cancellation/00.jpg",
+    "publishedAt": "2022-01-19T04:00:00Z",
+    "content": "NVIDIA - GIGAZINE\r\nAirPodsBeats Fit Pro - GIGAZINE\r\niPhoneiPadiOS 10 - GIGAZINE\r\nApple - GIGAZINE\r\nTweet"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "heise online"
+    },
+    "author": "Frank Schräer",
+    "title": "Mittwoch: Apple beschränkt iPhone 13, Microsoft übernimmt Activision Blizzard",
+    "description": "iPhone 13 ohne Geräuschunterdrückung + Milliarden für Spielefirma + Microsoft-Updates nach Patchday + Kryptobörse unter Beschuss + Handy-Chip mit AMD-Grafik",
+    "url": "https://www.heise.de/news/Mittwoch-Apple-beschraenkt-iPhone-13-Microsoft-uebernimmt-Activision-Blizzard-6331459.html",
+    "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/2/5/9/3/1/5/mittwoch-4d6c0ef886252689.webp",
+    "publishedAt": "2022-01-19T05:30:00Z",
+    "content": "Eine neue Produktgeneration verspricht üblicherweise Weiterentwicklungen und neue Features. Apple geht seinen eigenen Weg und hat beim iPhone 13 die Geräuschunterdrückung beim Telefonieren gestrichen… [+2629 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "heise online"
+    },
+    "author": "Christof Windeck",
+    "title": "Bit-Rauschen, der Prozessor-Podcast: CPU-Mikroarchitekturen im Vergleich",
+    "description": "Wie unterscheiden sich aktuelle Prozessoren von AMD, Intel und Apple? Vor- und Nachteile ergründen wir in Folge 2022/2 des Audio-Podcast Bit-Rauschen.",
+    "url": "https://www.heise.de/meinung/Bit-Rauschen-der-Prozessor-Podcast-CPU-Mikroarchitekturen-im-Vergleich-6203435.html",
+    "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/1/7/5/5/3/0/Bit-Rauschen-Podcast_Folge_1-6efc0df01acc9926.jpeg",
+    "publishedAt": "2022-01-19T05:30:00Z",
+    "content": "Bit-Rauschen der Prozessor-Podcast von ct\r\nDen zweiwöchentlichen Prozessor-Podcast von ct gibt es ...\r\nRyzen 5000, Core i-12000, M1: Die aktuellen Prozessoren von AMD, Intel und Apple unterscheiden s… [+1422 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "9to5Mac"
+    },
+    "author": "Filipe Espósito",
+    "title": "Watch the full trailer for Apple TV+ Severance series starring Adam Scott",
+    "description": "Apple last year announced a new thriller series called Severance, which is coming soon to Apple TV+. Since there’s now only a month until the show premieres, Apple has released the full trailer for Severance.\n more…\nThe post Watch the full trailer for Apple T…",
+    "url": "https://9to5mac.com/2022/01/18/watch-the-full-trailer-for-apple-tv-severance-series-starring-adam-scott/",
+    "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/12/severance-appel-tv.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2022-01-19T01:01:23Z",
+    "content": "Apple last year announced a new thriller series called Severance, which is coming soon to Apple TV+. Since there’s now only a month until the show premieres, Apple has released the full trailer for S… [+1035 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "9to5Mac"
+    },
+    "author": "Filipe Espósito",
+    "title": "Apple working on a fix for Safari bug that leaks browsing history and Google ID",
+    "description": "Earlier this week, FingerprintJS revealed a serious bug in Apple’s Safari web browser that lets anyone extract a user’s browsing history and even Google User IDs. As expected, Apple is now working on a fix for this bug, which is expected to be released to use…",
+    "url": "https://9to5mac.com/2022/01/18/apple-working-on-a-fix-for-safari-bug-that-leaks-browsing-history-and-google-id/",
+    "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/11/safari-in-macos-monterey-walkthrough.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2022-01-19T03:44:13Z",
+    "content": "Earlier this week, FingerprintJS revealed a serious bug in Apple’s Safari web browser that lets anyone extract a user’s browsing history and even Google User IDs. As expected, Apple is now working on… [+1399 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "9to5Mac"
+    },
+    "author": "Filipe Espósito",
+    "title": "Snapchat announces new parental controls to limit friend suggestions for teenagers",
+    "description": "Snapchat on Tuesday announced that new parental controls are coming soon to the social network. According to the company, there will be options to limit friend suggestions for teen users so that adult strangers won’t find these accounts easily.\n more…\nThe pos…",
+    "url": "https://9to5mac.com/2022/01/18/snapchat-announces-new-parental-controls-to-limit-friend-suggestions-for-teenagers/",
+    "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/01/snapchat.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2022-01-19T01:41:54Z",
+    "content": "Snapchat on Tuesday announced that new parental controls are coming soon to the social network. According to the company, there will be options to limit friend suggestions for teen users so that adul… [+1664 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "MarketWatch"
+    },
+    "author": "Therese Poletti",
+    "title": "MarketWatch First Take: Microsoft faces battle for Activision deal, especially if ‘Call of Duty’ is destined for Xbox exclusivity",
+    "description": "Microsoft Corp. has in the last few years gotten a bit of an anti-competitive pass from U.S. regulators, after its long legal battle with the Justice Department in the late 1990s but that pass may now be at an end, with the software behemoth's plans to purcha…",
+    "url": "https://www.marketwatch.com/story/microsoft-faces-battle-for-activision-deal-especially-if-call-of-duty-is-destined-for-xbox-exclusivity-11642551317",
+    "urlToImage": "https://images.mktw.net/im-272371/social",
+    "publishedAt": "2022-01-19T00:15:00Z",
+    "content": "Microsoft Corp. has received a pass from regulators keen to take on Big Tech in recent years, but it may have just forfeited that pass by making a run at the biggest tech acquisition in history for a… [+5909 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "AppleInsider"
+    },
+    "author": "news@appleinsider.com (Amber Neely)",
+    "title": "Apple fixing known Safari fingerprinting bug that allows websites to track your browsing history",
+    "description": "Apple is working on a fix for a known bug in Safari that allows websites to view a user's browsing history and Google ID.On Sunday, it was reported that researchers had found an issue with the way Apple had implemented IndexedDB API in Safari 15. The bug woul…",
+    "url": "https://appleinsider.com/articles/22/01/19/apple-fixing-known-safari-fingerprinting-bug-that-allows-websites-to-track-your-browsing-history",
+    "urlToImage": "https://photos5.appleinsider.com/gallery/46580-90806-hhehader-xl.jpg",
+    "publishedAt": "2022-01-19T04:51:34Z",
+    "content": "AppleInsider is supported by its audience and may earn commission as an Amazon Associate and affiliate partner on qualifying purchases. These affiliate partnerships do not influence our editorial con… [+1679 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Gizmodo.jp"
+    },
+    "author": "塚本直樹",
+    "title": "力技？ 次期Mac ProはM1 Maxのコア数を盛り盛りするらしい",
+    "description": "次期Mac Proには次世代のM2チップではなく、超マルチコア化したM1 Maxが搭載される模様。",
+    "url": "https://www.gizmodo.jp/2022/01/next-mac-pro-will-feature-the-multi-core-m1-max.html",
+    "urlToImage": "https://assets.media-platform.com/gizmodo/dist/images/2022/01/19/shutterstock_1650022780-w960.jpg",
+    "publishedAt": "2022-01-19T04:00:00Z",
+    "content": "MacBook AirProMac miniApple 202241012Mac ProM1 Max\r\nM1 Pro16MacBook Pro\r\nThe Apple Silicon transition will end by Q4 of 2022. The Mac Pro will be the last device to be replaced. The Mac Pros processo… [+290 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Gizmodo.jp"
+    },
+    "author": "塚本直樹",
+    "title": "忘れてもらっちゃ困るぜ。次期iPadは5G/Wi-Fi 6対応するかも",
+    "description": "Photo:Shutterstock.comこれで十分感。第9世代までシリーズが続いている、Apple（アップル）のタブレットのベースモデルこと「iPad」。こちらについて、次期モデルではA14プロセッサや5G通信、Wi-Fi6に対応し年末にも登場するとの情報が、海外にて伝えられています。実は私も昨年末にiPad（第9世代）を購入したのですが、その質感の良さには大満足。廉価モデルだなんて、まったく",
+    "url": "https://www.gizmodo.jp/2022/01/ipad-5g-wi-fi-6.html",
+    "urlToImage": "https://assets.media-platform.com/gizmodo/dist/images/2022/01/18/shutterstock_1553267957-w960.jpg",
+    "publishedAt": "2022-01-19T02:00:00Z",
+    "content": "9AppleiPadA145GWi-Fi 6\r\niPad9iPadiPad\r\nThe iPad 10th Generation is coming out towards the end of this year with 5G, Bluetooth 5.0, Wi-Fi 6, A14 processor, 10.2 inch display, and the lightening connec… [+236 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Gizmodo.jp"
+    },
+    "author": "塚本直樹",
+    "title": "もう出るの!? 次期MacBook ProとAirにM2チップが投入されるかも",
+    "description": "Image:shutterstockうちのM1ProMacBookはもう型落ち？2020年に「M1」プロセッサにアップグレードされた13インチMacBookPro/MacBookAirですが、2022年後半には「M2」を搭載した次期モデルが登場するかもしれません。私は2021年にM1Proチップを搭載したMacBookProを購入したのですが、新しいM2モデルが登場すると思うと、自分のMacBoo",
+    "url": "https://www.gizmodo.jp/2022/01/macbook-pro-m2.html",
+    "urlToImage": "https://assets.media-platform.com/gizmodo/dist/images/2022/01/18/shutterstock_2075100340-w960.jpg",
+    "publishedAt": "2022-01-19T01:00:00Z",
+    "content": "M1 Pro MacBook\r\n2020M113MacBook Pro/MacBook Air2022M2\r\n2021M1 ProMacBook ProM2MacBook Pro\r\nThe currently available M1 MacBook Pro 13 will be replaced with a MacBook Pro 14 with an M2 chip in the 2H o… [+340 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Gizmodo.jp"
+    },
+    "author": "はらいさん",
+    "title": "なんと。新型iPad AirがiPhone SE（第3世代）と一緒に発表されるかも",
+    "description": "Image:Apple登場は思ったより近い？全5色のカラフル展開に加えて、iPadProのようなベゼルレスデザイン、そしてTouchIDも兼ね備えたiPadAirですが、なんとその新型がまもなく発表されるかもしれません。Macお宝鑑定団Blogが中国の信頼できる情報筋から得た情報によると、Apple（アップル）は今年の春にiPadAir（第5世代）とiPhoneSE（第3世代）を同時に発表する可能",
+    "url": "https://www.gizmodo.jp/2022/01/ipad-air-3rd-gen-iphone-se-rumor.html",
+    "urlToImage": "https://assets.media-platform.com/gizmodo/dist/images/2022/01/18/apple_ipad-air-availability_colors_10162020-w960.jpg",
+    "publishedAt": "2022-01-19T08:00:00Z",
+    "content": "5iPad ProTouch IDiPad Air\r\nMacBlogAppleiPad Air5iPhone SE3\r\niPad Air5iPhone SE3\r\niPad Air4USB-CApple Pencil2\r\niPad Air5A 15 Bionic12True Tone5G\r\niPhone SE334\r\niPad Air5\r\nSource: MacBlog"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Yanko Design"
+    },
+    "author": "Srishti Mitra",
+    "title": "Sleek USB-C hubs to perfectly upgrade your WFH setup’s productivity",
+    "description": "Sleek USB-C hubs to perfectly upgrade your WFH setup’s productivityWe spend most of our day working on laptops and PCs, and maintaining a consistently high level of productivity and efficiency is extremely integral for...",
+    "url": "https://www.yankodesign.com/2022/01/18/sleek-usb-c-hubs-to-perfectly-upgrade-your-wfh-setups-productivity/",
+    "urlToImage": "https://www.yankodesign.com/images/design_news/2022/01/usb-c-hubs/Save-USB-SSD-Hub-by-Cheon-Ryong-Choi.jpeg",
+    "publishedAt": "2022-01-19T00:30:31Z",
+    "content": "We spend most of our day working on laptops and PCs, and maintaining a consistently high level of productivity and efficiency is extremely integral for our work routines. Hence, adopting and making u… [+6412 chars]"
+    },
+    {
+    "source": {
+    "id": "engadget",
+    "name": "Engadget"
+    },
+    "author": "Munenori Taniguchi",
+    "title": "Apple TV＋新作『セヴェランス』最新予告。究極のワークライフバランスの裏に潜む謎",
+    "description": "Apple TV+が、ベン・スティラーがメガホンを取る新作ドラマ『セヴェランス』の新予告編を公開。2月18日からの配信開始を告知しています",
+    "url": "https://japanese.engadget.com/apple-tv-plus-thriller-severance-trailer-045020464.html",
+    "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2022-01/ad015ab0-78df-11ec-bff9-c864ab3e48c8",
+    "publishedAt": "2022-01-19T04:50:20Z",
+    "content": "Apple TV+218\r\nseverance procedure()Lumon Industries()\r\n921821\r\n963\r\nSourceApple TV+(YouTube)"
+    },
+    {
+    "source": {
+    "id": "engadget",
+    "name": "Engadget"
+    },
+    "author": "Kiyoshi Tane",
+    "title": "新型Mac Proが2022年末までに登場、Appleシリコンへの移行が完了する噂",
+    "description": "全ての主要MacのAppleシリコンへの移行が、2022年第4四半期までに新型Mac Proが登場することで完了するとの噂が報じられています。",
+    "url": "https://japanese.engadget.com/new-macpro-2022-q-4-apple-silicon-transition-032050258.html",
+    "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2022-01/b2c22a50-78d1-11ec-bbfe-45261e0bbda2",
+    "publishedAt": "2022-01-19T03:20:50Z",
+    "content": "20206MacApple220224Mac Pro\r\nDylandktApple2022Q44Mac ProApple\r\nThe Apple Silicon transition will end by Q4 of 2022. The Mac Pro will be the last device to be replaced. The Mac Pros processor will not … [+403 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Applesfera.com"
+    },
+    "author": "David Bernal Raspall",
+    "title": "Office para Mac se actualiza para el M1: Excel ya es 100% nativo en Apple Silicon",
+    "description": "Microsoft ha lanzado una actualización de Office para Mac con interesantes novedades, sobre todo para los que utilizamos ordenadores con chips Apple silicon. Excel, una de las apps más utilizadas de la suite, es ahora 100% nativa en los procesadores M1.\n<!-- …",
+    "url": "https://www.applesfera.com/aplicaciones-os-x-1/office-para-mac-se-actualiza-para-m1-excel-100-nativo-apple-silicon",
+    "urlToImage": "https://i.blogs.es/5b6896/hero/840_560.jpeg",
+    "publishedAt": "2022-01-19T08:20:25Z",
+    "content": "Microsoft ha lanzado una actualización de Office para Mac con interesantes novedades, sobre todo para los que utilizamos ordenadores con chips Apple silicon. Excel, una de las apps más utilizadas de … [+1682 chars]"
+    }
+    ]
+    }
