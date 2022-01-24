@@ -13,4 +13,4 @@ To make this app work for you, you've to add your own api key, which you can get
 You can paste this api key in **.env.local** file.
 
 ## Screenshots
-![Screenshot of the app](https://raw.githubusercontent.com/danishfareed/newsbird/master/src/logo.svg)
+![Screenshot of the app](https://raw.githubusercontent.com/danishfareed/newsbird/master/src/screenshot-newsbird.png)
